@@ -13,7 +13,7 @@ I used the Maps JavaScript API from Google Cloud and gmaps to create a heat map 
 
 ## Key Insights for Presentation
 
-I will focus on the commuting I discovered in my exploration. Since I have increasingly smaller incremints of time, I will start wide by looking at the whole month then the week, and finally the hour. This will introduce the differences in weekdays and weekends, and then the spikes in traffic at commuting times. Then, to show that the bimodal distribution is not maintained I'll show the violin plot of usage each day by hour.
+I focused on the commuting discoveries in my exploration. Since I have increasingly smaller incremints of time, I will start wide by looking at the whole month then the week, and finally the hour. This will introduce the differences in weekdays and weekends, and then the spikes in traffic at commuting times. Then, to show that the bimodal distribution is not maintained on the weekends I'll show the violin plot of usage each day by hour.
 
 Next I will explain how distance continues to support the arguement that bikes are used mainly for commuting. With the previously determined increased usage, average distances being at 2km in the morning is a 0.3km, or 15%, increase per ride.
 
